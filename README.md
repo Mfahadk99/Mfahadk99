@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
 <h3 align="center">Full-Stack Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfahadk99&label=Profile%20views&color=0e75b6&style=flat" alt="mfahadk99" /> </p>
-https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfahadk99" alt="mfahadk99" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
